@@ -15,9 +15,9 @@ ROW COL BOARD
 ```
 Enter board as a string, top to bottom, left to right. Use period (`.`) for empty space, numbers for bubble sizes. Use numbers `1` (smallest, blue), `2` (yellow), `3` (green) and `4` (largest, red) for bubble state.
 
-
 See also:
 ---------
 
 My [Flow game solver](https://github.com/lacop/FlowSolver) source on GitHub. That one uses SAT solver (this one is just plain bruteforce since the state space is small enough).
+
 
